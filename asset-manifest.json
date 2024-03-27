@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Horizon-LDD/static/css/main.de2334e2.css",
+    "main.css": "/Horizon-LDD/static/css/main.b4693059.css",
     "main.js": "/Horizon-LDD/static/js/main.0907226d.js",
     "static/js/787.296f31cf.chunk.js": "/Horizon-LDD/static/js/787.296f31cf.chunk.js",
-    "static/media/DashboardBackground.png": "/Horizon-LDD/static/media/DashboardBackground.56f1850aad9e12e8eed9.png",
+    "static/media/DashboardBackground.png": "/Horizon-LDD/static/media/DashboardBackground.dff09441d7a5f7148281.png",
     "static/media/Popup.png": "/Horizon-LDD/static/media/Popup.4ee7ef14b3d04dece562.png",
     "static/media/logo.svg": "/Horizon-LDD/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Horizon-LDD/index.html",
-    "main.de2334e2.css.map": "/Horizon-LDD/static/css/main.de2334e2.css.map",
+    "main.b4693059.css.map": "/Horizon-LDD/static/css/main.b4693059.css.map",
     "main.0907226d.js.map": "/Horizon-LDD/static/js/main.0907226d.js.map",
     "787.296f31cf.chunk.js.map": "/Horizon-LDD/static/js/787.296f31cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de2334e2.css",
+    "static/css/main.b4693059.css",
     "static/js/main.0907226d.js"
   ]
 }
